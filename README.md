@@ -1,5 +1,5 @@
 # BattleShip
-Compile the program and run the Game.java and then provide the input in the specified format.
+Compile the program and run the Game.java and then provide the input in the specified format or copy the input from 'input.txt'
 
 Example:
 5 E
